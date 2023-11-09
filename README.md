@@ -4,7 +4,7 @@
 # renoise-set
 Renoise templates
 
-<table border="0" style="width:100%">
+<table border="0" style="width:100% !important">
  <tr>
     <td width="66%">
       <ul>
